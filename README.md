@@ -132,6 +132,4 @@ You can set up tests to run in headless mode by configuring the config.ini file 
 
 **Project Structure**  
 
-
-
-
+![Project3](https://github.com/user-attachments/assets/aa98ae1c-8b80-457e-86c6-19e3ed8a6438)
