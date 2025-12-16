@@ -22,10 +22,11 @@ config.read("config.ini")
 @pytest.fixture(scope="function")
 def setup(request):
     browser = config.get("browser_settings", "browser").lower()
-
+    headless = config.getboolean("browser_settings","headless")
     # Setup driver options
     driver_options = Options()
     driver_options.add_argument("--incognito")
+    if headless:    driver_options.add_argument("--headless=new")
     # driver Setup
     if browser == "chrome":
         driver_instance = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=driver_options)
