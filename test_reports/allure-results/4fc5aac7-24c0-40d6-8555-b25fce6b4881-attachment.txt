@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_runner.py:55 -- Running testcase02 -- Login Functionality for non standard users ---
+[32mINFO    [0m root:test_runner.py:58 Testing completed for Login functionality of non standard users.

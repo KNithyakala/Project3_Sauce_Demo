@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:test_runner.py:65 -Running testcase03-Logout Functionality, testcase04-Cart Icon Visibility and testcase10-Reset App State Functionality
+[32mINFO    [0m root:test_runner.py:67 Testing completed for Cart Icon Visibility, Reset App state and Logout.

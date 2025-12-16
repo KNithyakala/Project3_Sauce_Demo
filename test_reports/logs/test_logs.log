@@ -1,0 +1,30 @@
+2025-12-16 10:22:15,636 - INFO - WDM - ====== WebDriver manager ======
+2025-12-16 10:22:16,547 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:16,864 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:17,072 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 10:22:18,293 - INFO - root - --Running testcase01 -- Login Functionality for predefined users--
+2025-12-16 10:22:28,519 - INFO - root - Testing completed for Login functionality of predefined users.
+2025-12-16 10:22:30,827 - INFO - WDM - ====== WebDriver manager ======
+2025-12-16 10:22:31,827 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:32,096 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:32,435 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 10:22:33,609 - INFO - root - -- Running testcase02 -- Login Functionality for non standard users ---
+2025-12-16 10:22:37,227 - INFO - root - Testing completed for Login functionality of non standard users.
+2025-12-16 10:22:39,627 - INFO - WDM - ====== WebDriver manager ======
+2025-12-16 10:22:40,596 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:40,827 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:41,233 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 10:22:42,440 - INFO - root - -Running testcase03-Logout Functionality, testcase04-Cart Icon Visibility and testcase10-Reset App State Functionality
+2025-12-16 10:22:47,326 - INFO - root - Testing completed for Cart Icon Visibility, Reset App state and Logout.
+2025-12-16 10:22:49,606 - INFO - WDM - ====== WebDriver manager ======
+2025-12-16 10:22:50,676 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:51,169 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:22:51,373 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 10:22:52,646 - INFO - root - --- Running test for test case 5, 6, 7 and 8--------
+2025-12-16 10:22:58,082 - INFO - root - Testing completed for Random Selection of products, adding products, cart page validation and checkout.
+2025-12-16 10:23:00,434 - INFO - WDM - ====== WebDriver manager ======
+2025-12-16 10:23:01,487 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:23:01,919 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-12-16 10:23:02,125 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-16 10:23:03,365 - INFO - root - --- Running test for test case 9--------
+2025-12-16 10:23:07,247 - INFO - root - Testing completed for Sorting functionality on the Product Page.
